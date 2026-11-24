@@ -1,0 +1,2 @@
+# projeto-desenvolvimento-de-sistema-de-agendamento-de-fisioterapia-estrutura-tcc-jo-o-victor
+Repositório oficial de estrutura do TCC desenvolvimento de um sistema web para agendamento de consultas em clínicas e empresas de fisioterapia. O objetivo é facilitar a organização dos horários, evitar conflitos de agendamentos.Desenvolvimento em java, spring boot e postgreSQL. Gabriel Teles, João Victor, Pedro Azevedo.
